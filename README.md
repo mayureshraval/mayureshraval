@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayureshraval
-- 👀 I’m interested in ...Android Development
+- 👀 I’m interested in ... Web development
 - 🌱 I’m currently working in ... TCS
-- 💞️ I’m looking to collaborate on ... Anything useful
+- 💞️ I’m looking to collaborate on ... Startups
 - 📫 How to reach me ... mayureshraval2012@gmail.com 
 
 <!---
