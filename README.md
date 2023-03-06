@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently working in ... TCS
 - 💞️ I’m looking to collaborate on ... Startups
-- 📫 How to reach me ... mayureshraval2012@gmail.com 
+- 📫 How to reach me ... mayuresh.rawal@outlook.com 
 
 <!---
 mayureshraval/mayureshraval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
